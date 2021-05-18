@@ -12,4 +12,7 @@ Tiilien juurihakemisto:
 tyhjän ruudun template tyhja.png polkuun:
 /home/ubuntu/map_tiles/tiles/tyhja.png
 
+Kaikki gpx ja fit fileet hakemistoon:
+/home/ubuntu/map_tiles/activities
+
 
