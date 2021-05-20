@@ -259,6 +259,7 @@ all_fit = glob.glob(gpx_files_folder + '/*.fit.gz')
 
 all_files = all_gpx + all_gpx_gz + all_fit
 
+all_files = sorted(all_files)
 
 # Looppaillaan tiedostot lävitse
 
